@@ -9,7 +9,16 @@ const assignments = [
   { title: 'CSS-Task-1-Page-1', subject: 'CSS', github: 'https://github.com/sylanistudent54-sketchx/All-Assignements/tree/main/Assignements', live: 'https://css-task-1-page-1.vercel.app', drive: 'https://drive.google.com/drive/folders/1r47osGCpJV58GbLkLPz9Vfj9rt_7u3Ee?usp=sharing' },
   { title: 'CSS-Task-1-Page-2', subject: 'CSS', github: 'https://github.com/sylanistudent54-sketchx/All-Assignements/tree/main/Assignements', live: 'https://css-task-1-page-2.vercel.app', drive: 'https://drive.google.com/drive/folders/1r47osGCpJV58GbLkLPz9Vfj9rt_7u3Ee?usp=sharing' },
   { title: 'CSS-Task-2', subject: 'CSS', github: 'https://github.com/sylanistudent54-sketchx/All-Assignements/tree/main/Assignements', live: 'https://css-task-2-zeta.vercel.app', drive: 'https://drive.google.com/drive/folders/1r47osGCpJV58GbLkLPz9Vfj9rt_7u3Ee?usp=sharing' }
+{
+    title: 'CSS-Task-3',
+    subject: 'CSS',
+    github: 'https://github.com/sylanistudent54-sketchx/All-Assignements/tree/main/Assignements',
+    live: 'https://css-task-3-ten.vercel.app',
+    drive: 'https://drive.google.com/drive/folders/1r47osGCpJV58GbLkLPz9Vfj9rt_7u3Ee?usp=sharing'
+  }
 ];
+
+  
 
 const list = document.getElementById("assignment-list");
 document.getElementById("total-count").textContent = assignments.length;
