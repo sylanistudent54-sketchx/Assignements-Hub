@@ -7,7 +7,7 @@ const assignments = [
         subject: 'HTML',
         github: 'https://github.com/sylanistudent54-sketchx/All-Assignements/tree/main/Assignements',
         live: 'https://html-task-1-ten.vercel.app/',
-        drive: 'https://drive.google.com/drive/folders/1r47osGCpJV58GbLkLPz9Vfj9rt_7u3Ee?usp=sharing'
+        drive: 'https://drive.google.com/drive/folders/1G1Sdr6yLakpk1y3dvuNog5saeLSn9msj?usp=sharing'
     },
 
     {
@@ -15,7 +15,7 @@ const assignments = [
         subject: 'HTML',
         github: 'https://github.com/sylanistudent54-sketchx/All-Assignements/tree/main/Assignements',
         live: 'https://html-task-2-three.vercel.app/',
-        drive: 'https://drive.google.com/drive/folders/1r47osGCpJV58GbLkLPz9Vfj9rt_7u3Ee?usp=sharing'
+        drive: 'https://drive.google.com/drive/folders/1G1Sdr6yLakpk1y3dvuNog5saeLSn9msj?usp=sharing'
     },
 
     {
@@ -23,7 +23,7 @@ const assignments = [
         subject: 'HTML',
         github: 'https://github.com/sylanistudent54-sketchx/All-Assignements/tree/main/Assignements',
         live: 'https://html-task-03-ten.vercel.app/',
-        drive: 'https://drive.google.com/drive/folders/1r47osGCpJV58GbLkLPz9Vfj9rt_7u3Ee?usp=sharing'
+        drive: 'https://drive.google.com/drive/folders/1G1Sdr6yLakpk1y3dvuNog5saeLSn9msj?usp=sharing'
     },
 
     {
@@ -31,7 +31,7 @@ const assignments = [
         subject: 'HTML',
         github: 'https://github.com/sylanistudent54-sketchx/All-Assignements/tree/main/Assignements',
         live: 'https://html-task-4-ashy.vercel.app/',
-        drive: 'https://drive.google.com/drive/folders/1r47osGCpJV58GbLkLPz9Vfj9rt_7u3Ee?usp=sharing'
+        drive: 'https://drive.google.com/drive/folders/1G1Sdr6yLakpk1y3dvuNog5saeLSn9msj?usp=sharing'
     },
 
     {
@@ -39,7 +39,7 @@ const assignments = [
         subject: 'HTML',
         github: 'https://github.com/sylanistudent54-sketchx/All-Assignements/tree/main/Assignements',
         live: 'https://html-task-5-xi.vercel.app',
-        drive: 'https://drive.google.com/drive/folders/1r47osGCpJV58GbLkLPz9Vfj9rt_7u3Ee?usp=sharing'
+        drive: 'https://drive.google.com/drive/folders/1G1Sdr6yLakpk1y3dvuNog5saeLSn9msj?usp=sharing'
     },
 
     {
@@ -47,7 +47,7 @@ const assignments = [
         subject: 'HTML',
         github: 'https://github.com/sylanistudent54-sketchx/All-Assignements/tree/main/Assignements',
         live: 'https://html-task-6-rosy.vercel.app',
-        drive: 'https://drive.google.com/drive/folders/1r47osGCpJV58GbLkLPz9Vfj9rt_7u3Ee?usp=sharing'
+        drive: 'https://drive.google.com/drive/folders/1G1Sdr6yLakpk1y3dvuNog5saeLSn9msj?usp=sharing'
     },
 
     {
@@ -55,7 +55,7 @@ const assignments = [
         subject: 'HTML',
         github: 'https://github.com/sylanistudent54-sketchx/All-Assignements/tree/main/Assignements',
         live: 'https://html-task-7-last-task.vercel.app',
-        drive: 'https://drive.google.com/drive/folders/1r47osGCpJV58GbLkLPz9Vfj9rt_7u3Ee?usp=sharing'
+        drive: 'https://drive.google.com/drive/folders/1G1Sdr6yLakpk1y3dvuNog5saeLSn9msj?usp=sharing'
     },
 
 
@@ -66,7 +66,7 @@ const assignments = [
         subject: 'CSS',
         github: 'https://github.com/sylanistudent54-sketchx/All-Assignements/tree/main/Assignements',
         live: 'https://css-task-1-page-1.vercel.app',
-        drive: 'https://drive.google.com/drive/folders/1r47osGCpJV58GbLkLPz9Vfj9rt_7u3Ee?usp=sharing'
+        drive: 'https://drive.google.com/drive/folders/1G1Sdr6yLakpk1y3dvuNog5saeLSn9msj?usp=sharing'
     },
 
     {
@@ -74,7 +74,7 @@ const assignments = [
         subject: 'CSS',
         github: 'https://github.com/sylanistudent54-sketchx/All-Assignements/tree/main/Assignements',
         live: 'https://css-task-1-page-2.vercel.app',
-        drive: 'https://drive.google.com/drive/folders/1r47osGCpJV58GbLkLPz9Vfj9rt_7u3Ee?usp=sharing'
+        drive: 'https://drive.google.com/drive/folders/1G1Sdr6yLakpk1y3dvuNog5saeLSn9msj?usp=sharing'
     },
 
     {
@@ -82,7 +82,7 @@ const assignments = [
         subject: 'CSS',
         github: 'https://github.com/sylanistudent54-sketchx/All-Assignements/tree/main/Assignements',
         live: 'https://css-task-2-zeta.vercel.app',
-        drive: 'https://drive.google.com/drive/folders/1r47osGCpJV58GbLkLPz9Vfj9rt_7u3Ee?usp=sharing'
+        drive: 'https://drive.google.com/drive/folders/1G1Sdr6yLakpk1y3dvuNog5saeLSn9msj?usp=sharing'
     },
 
     {
@@ -90,7 +90,7 @@ const assignments = [
         subject: 'CSS',
         github: 'https://github.com/sylanistudent54-sketchx/All-Assignements/tree/main/Assignements',
         live: 'https://css-task-3-ten.vercel.app',
-        drive: 'https://drive.google.com/drive/folders/1r47osGCpJV58GbLkLPz9Vfj9rt_7u3Ee?usp=sharing'
+        drive: 'https://drive.google.com/drive/folders/1G1Sdr6yLakpk1y3dvuNog5saeLSn9msj?usp=sharing'
     },
 
     {
